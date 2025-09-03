@@ -1,0 +1,14 @@
+# ====Carpetas generadas por Netbeans ====
+build/
+dist/
+nbproject/private/
+
+# ==== Archivos compilados ====
+*.class 
+
+# ==== Archivos del sistema operativos ====
+.DS_Store
+Thumbs.db 
+
+# ==== Archivos de logs ====
+*.log
